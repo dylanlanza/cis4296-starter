@@ -1,0 +1,1 @@
+This is me editing my new text file using vim on the command terminal, to then be pushed and commited.
